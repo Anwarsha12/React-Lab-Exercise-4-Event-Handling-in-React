@@ -52,9 +52,10 @@ import { useState } from "react"; function App() {   const [name, setName] = use
 } export default App; 
 ```
 ## OUTPUT
-<img width="1125" height="401" alt="image" src="https://github.com/user-attachments/assets/d3db34a0-13a6-4846-bd47-e8b26a93f530" />
-<img width="1125" height="413" alt="image" src="https://github.com/user-attachments/assets/82e76a76-6ffd-42eb-bc57-f9342489ed05" />
-<img width="1125" height="422" alt="image" src="https://github.com/user-attachments/assets/4cc987b0-1825-445e-be70-ba8cf1542947" />
+<img width="917" height="229" alt="Screenshot 2026-11-13 005305" src="https://github.com/user-attachments/assets/68ccd145-0033-4b7d-9cf1-0a8f7a167b36" />
+<img width="920" height="157" alt="Screenshot 2026-11-13 005320" src="https://github.com/user-attachments/assets/4aeb9f09-de89-4f8a-99f5-3238c3049daf" />
+<img width="915" height="152" alt="Screenshot 2026-11-13 005337" src="https://github.com/user-attachments/assets/b58849d6-cece-4476-ba12-12a1dfb91b01" />
+
 
 ## RESULT
 ### Thus, React event handling was successfully implemented using the onClick and onChange events. The application responded to button clicks, maintained a click counter using useState, and displayed the student's name dynamically based on user input. 
